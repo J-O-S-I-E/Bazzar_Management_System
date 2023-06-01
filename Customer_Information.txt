@@ -1,0 +1,11 @@
+A1 Joseann Boneo Female 18683420338 3 hoping
+A0 John Harris Male 18687328980 3 faith
+A5 James Hazel Female 18682340987 0 school
+A2 Alice Theodore Female 12398709834 4 hospital
+A3 Lucas Samuel Male 18683168683 2 admitted
+A4 Ella Benjamin Female 18689872345 0 popular
+A10 Jodaniah Baptiste Female 18683420338 2 hoping
+A12 Jsaiahempt Lu Male 18685550338 10 faith
+A22 Josie Boneo Female 186838838492 2 unholy
+A6 Jade Glasgow Male 18687329021 0 snowflake
+XXX
